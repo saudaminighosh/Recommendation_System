@@ -12,7 +12,7 @@ def main():
 
     print("Loading data...")
     orders, products, order_prior = load_data(
-        r"C:\Users\sauda\OneDrive\Projects\Data Science\Recommendation_System\data"
+        r"C:\Projects\Data Science\Recommendation_System\data"
     )
 
     print("\nTop Popular Products:")
